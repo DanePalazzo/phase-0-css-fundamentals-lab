@@ -3,3 +3,55 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  margin: auto;
+  text-align: center;
+}
+
+nav {
+  margin: auto;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+nav a {
+  background-color: gray;
+}
+
+#featured-property figure {
+  margin: auto;
+  text-align: center;
+}
+
+
+figcaption {
+  margin: auto;
+  text-align: center;
+  font-size: 12px;
+}
+
+#featured-property p {
+  margin: auto;
+  text-align: center;
+  width: 800px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+#details {
+  
+}
+
+#details div {
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
+
+
+
+
+
